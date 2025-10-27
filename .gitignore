@@ -1,0 +1,10 @@
+bin/
+.project
+.settings
+
+Main.class
+BaseEx3Loop.class
+Hello.class
+
+.class
+.classpath
