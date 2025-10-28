@@ -13,6 +13,6 @@ public class Hello {
 
 		System.out.println("Enter lastname");
 		String userLastName = myObj.nextLine();
-
+		myObj.close();
 	 System.out.println("Hello world" +" "+ userLastName + " " + userFirstName);	}
 }
