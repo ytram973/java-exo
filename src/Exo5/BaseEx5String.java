@@ -36,7 +36,7 @@ public class BaseEx5String {
             }
         }
 
-        // On compare la chaîne originale et l'inverse
+        // affiche le résultat en fonction si est palinfrome est true ou false
         if (estPalindrome) {
             System.out.println("'" + mot + "' est un palindrome !");
         } else {
